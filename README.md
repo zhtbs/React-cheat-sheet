@@ -9,7 +9,7 @@
 ![ReactHooks2](https://github.com/user-attachments/assets/e3acf8d8-5fc5-42a5-981a-9d78a4da687e)
 ## 5 React-Hooks-Form
 ![ReactHooksForm](https://github.com/user-attachments/assets/437aed71-c94b-43a4-88f2-d22906ee5af1)
-
-
-
-
+## 6 React不可变数据immer
+![React不可变数据immer](https://github.com/user-attachments/assets/05c5e2d4-cb12-493e-849d-d24ce16e7913)
+## 7 ReactQuery数据状态管理库
+![ReactQuery数据状态管理库](https://github.com/user-attachments/assets/917185ea-5d3d-400a-a16f-47167e380dd6)
